@@ -1,2 +1,1 @@
-Ala ma kota i rybki.
-now funkcja psa
+Ala ma kota, psa i rybki.
